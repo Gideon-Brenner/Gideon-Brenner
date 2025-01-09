@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gideon-Brenner
-- 👀 I graduated from The University of Michigan in May 2024
-- 🌱 interested in computer programming, UX-design, chatbots, music composition, playing piano, and literature
+- 👀 I'm interested in computer programming, UX-design, chatbots, music composition, playing piano, and literature
+- graduated from The University of Michigan with a Bachelor's of Arts in May 2024🌱 
 - 📫 Reach me at brenner.gideon@gmail.com
 - 😄 Pronouns: he/him
 
